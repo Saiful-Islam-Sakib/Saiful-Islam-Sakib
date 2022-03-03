@@ -6,7 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful-Islam-Sakib&theme=radical&layout=compact" height="300" width="350"/>
 </div>
 <hr/>
-<h3 align="center"> Other Accounts </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/saiful-islam-sakib-266237168/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
