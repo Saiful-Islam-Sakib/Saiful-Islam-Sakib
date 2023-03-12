@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=Saiful-Islam-Sakib&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful-Islam-Sakib&langs_count=10&theme=radical&layout=compact" height="300" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful-Islam-Sakib&langs_count=10&hide=c,shell,dockerfile,html,css&theme=radical&layout=compact" height="300" width="350"/>
 </div>
 <hr/>
 
